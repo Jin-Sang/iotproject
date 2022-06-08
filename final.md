@@ -64,11 +64,11 @@
 
   - dot matrix, clcd와 tact swich를 이용하여 player들의 이름을 입력받는 기능
   
-![a1](https://user-images.githubusercontent.com/80252681/172620831-e6323cd4-e622-4043-8295-84cb75b5453c.jpg)
-![b1](https://user-images.githubusercontent.com/80252681/172620836-c8967472-977b-487c-8930-2a0447dc2560.jpg)
-![c1](https://user-images.githubusercontent.com/80252681/172620837-a35f986d-e19d-401c-97ec-476f6517100c.jpg)
-![d1](https://user-images.githubusercontent.com/80252681/172620842-317b70eb-1b1b-4b58-b205-670c3b7965ca.jpg)
-![e1](https://user-images.githubusercontent.com/80252681/172620846-1f704626-c07e-4754-aa84-b42eae72d6c4.jpg)
+  ![a1](https://user-images.githubusercontent.com/80252681/172620831-e6323cd4-e622-4043-8295-84cb75b5453c.jpg)
+  ![b1](https://user-images.githubusercontent.com/80252681/172620836-c8967472-977b-487c-8930-2a0447dc2560.jpg)
+  ![c1](https://user-images.githubusercontent.com/80252681/172620837-a35f986d-e19d-401c-97ec-476f6517100c.jpg)
+  ![d1](https://user-images.githubusercontent.com/80252681/172620842-317b70eb-1b1b-4b58-b205-670c3b7965ca.jpg)
+  ![e1](https://user-images.githubusercontent.com/80252681/172620846-1f704626-c07e-4754-aa84-b42eae72d6c4.jpg)
   
   - 현재 점수 상황을 보여주는 clcd 기능
   - 이름 입력의 진행 단계를 알 수 있는 led 기능
