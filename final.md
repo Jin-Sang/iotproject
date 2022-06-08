@@ -56,13 +56,14 @@
   8) 6쌍이 맞춰지면 각 플레이어가 획득한 점수에 따라 승자가 출력됩니다.
 
   ## 2.2 구현된 기능
-  - dot matrix와 tact swich를 이용하여 player들의 이름을 입력받는 기능
+  
+  - 누구의 이름을 입력하는지 알 수 있는 clcd 기능
   
   ![1](https://user-images.githubusercontent.com/80252681/172615594-f32a0951-d14e-4526-9f9d-5b61c94253bc.jpg)
-  
+  ![1](https://user-images.githubusercontent.com/80252681/172616486-b2975aef-7991-483b-9912-fba602d75697.jpg)
 
-  - 누구의 이름을 입력하는지 알 수 있는 lcd 기능
-  - 현재 점수 상황을 보여주는 lcd 기능
+  - dot matrix, clcd와 tact swich를 이용하여 player들의 이름을 입력받는 기능
+  - 현재 점수 상황을 보여주는 clcd 기능
   - 이름 입력의 진행 단계를 알 수 있는 led 기능
   - dot matrix에 4x3 카드 랜덤 배치 기능
   - tact switch를 이용하여 원하는 카드를 선택할 수 있는 기능
