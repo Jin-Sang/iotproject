@@ -63,6 +63,12 @@
   ![1](https://user-images.githubusercontent.com/80252681/172616486-b2975aef-7991-483b-9912-fba602d75697.jpg)
 
   - dot matrix, clcd와 tact swich를 이용하여 player들의 이름을 입력받는 기능
+  ![a](https://user-images.githubusercontent.com/80252681/172619430-c4a21311-ff66-453e-86ad-a0caee8dd872.jpg)
+  ![b](https://user-images.githubusercontent.com/80252681/172619505-3b9f443a-d6f7-41e5-bfa3-23a2765801eb.jpg)
+  ![c](https://user-images.githubusercontent.com/80252681/172619551-2a402b78-70b1-4ef5-8bf3-bd26c731e9fb.jpg)
+  ![d](https://user-images.githubusercontent.com/80252681/172619603-841f7ebd-f75f-4d6c-86b9-4d2c4088f07a.jpg)
+  ![e](https://user-images.githubusercontent.com/80252681/172619637-f71b16d7-d8f6-4548-b526-331471dda7b7.jpg)
+  
   - 현재 점수 상황을 보여주는 clcd 기능
   - 이름 입력의 진행 단계를 알 수 있는 led 기능
   - dot matrix에 4x3 카드 랜덤 배치 기능
