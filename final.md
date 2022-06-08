@@ -58,7 +58,7 @@
   ## 2.2 구현된 기능
   - dot matrix와 tact swich를 이용하여 player들의 이름을 입력받는 기능
   
-  <img src="![KakaoTalk_20220608_211918812](https://user-images.githubusercontent.com/80252681/172614520-00e52732-a4f6-42b3-bb7b-f24038c0d7e7.jpg)" width="500" height="700"/>
+  ![1](https://user-images.githubusercontent.com/80252681/172615594-f32a0951-d14e-4526-9f9d-5b61c94253bc.jpg)
   
 
   - 누구의 이름을 입력하는지 알 수 있는 lcd 기능
